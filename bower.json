@@ -1,0 +1,21 @@
+{
+  "name": "equalstature",
+  "version": "1.0.0",
+  "description": "EqualStature matches the height of elements using the tallest (natural) height",
+  "main": "jquery.equalstature.js",
+  "keywords": [
+    "Equal",
+    "Heights"
+  ],
+  "authors": [
+    "aihowes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
